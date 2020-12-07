@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://github-readme-stats.vercel.app/api?username=Taarek&count_private=true&show_icons=true&theme=dracula)
 
 <!--
 **MrFrank2716/MrFrank2716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
