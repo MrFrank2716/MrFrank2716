@@ -1,5 +1,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=MrFrank2716&count_private=true&show_icons=true&theme=dracula)
-/github/commit-activity/:interval/:user/:repo
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
