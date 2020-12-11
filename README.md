@@ -1,7 +1,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=MrFrank2716&count_private=true&show_icons=true&theme=dracula)
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on | Minecraft stuff :P
 - 🌱 I’m currently learning | 8 Courses
